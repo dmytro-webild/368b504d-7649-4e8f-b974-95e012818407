@@ -29,7 +29,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarStyleApple
-          brandName="ENS Resto"
+          brandName="Le 131"
           navItems={[
             { name: "Accueil", id: "hero" },
             { name: "Pourquoi Nous", id: "features" },
@@ -220,7 +220,7 @@ export default function LandingPage() {
               id: "5",              title: "Proposez-vous des services de catering?",              content: "Oui, nous proposons des services de catering pour les événements et réunions. Contactez-nous pour discuter de vos besoins spécifiques."
             },
             {
-              id: "6",              title: "Comment puis-je vous contacter?",              content: "Vous pouvez nous appeler au 04 78 75 43 21, nous envoyer un email à contact@ens-resto.fr, ou remplir le formulaire de contact sur notre site."
+              id: "6",              title: "Comment puis-je vous contacter?",              content: "Vous pouvez nous appeler au 04 78 75 43 21, nous envoyer un email à contact@le131.fr, ou remplir le formulaire de contact sur notre site."
             }
           ]}
         />
@@ -243,7 +243,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterLogoReveal
-          logoText="ENS Resto"
+          logoText="Le 131"
           leftLink={{ text: "Conditions d'utilisation", href: "#" }}
           rightLink={{ text: "Politique de confidentialité", href: "#" }}
         />
