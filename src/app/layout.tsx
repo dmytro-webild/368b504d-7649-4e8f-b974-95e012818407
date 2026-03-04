@@ -14,19 +14,19 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Restaurant Universitaire ENS Lyon | Repas Qualité 1-10€",  description: "Restaurant universitaire ENS Lyon. Repas frais et diversifiés dans un cadre calme. Tarifs de 1-10€. Ouvert 11h30-14h30. Réservations bienvenues.",  keywords: "restaurant universitaire Lyon, ENS Lyon, cantine étudiante, repas pas cher Lyon, restaurant ENS",  metadataBase: new URL("https://ens-resto-lyon.fr"),
+  title: "Le 131 - Restaurant Universitaire ENS Lyon | Repas Qualité 1-10€",  description: "Le 131 - Restaurant universitaire ENS Lyon. Repas frais et diversifiés dans un cadre calme. Tarifs de 1-10€. Ouvert 11h30-14h30. Réservations bienvenues.",  keywords: "restaurant universitaire Lyon, ENS Lyon, cantine étudiante, repas pas cher Lyon, restaurant ENS, Le 131",  metadataBase: new URL("https://le131-lyon.fr"),
   alternates: {
-    canonical: "https://ens-resto-lyon.fr"
+    canonical: "https://le131-lyon.fr"
   },
   openGraph: {
-    title: "Restaurant Universitaire ENS Lyon",    description: "Pause déjeuner de qualité au cœur de l'ENS. Repas complets de 1-10€.",    url: "https://ens-resto-lyon.fr",    siteName: "ENS Restaurant Lyon",    type: "website",    images: [
+    title: "Le 131 - Restaurant Universitaire ENS Lyon",    description: "Pause déjeuner de qualité au cœur de l'ENS. Repas complets de 1-10€.",    url: "https://le131-lyon.fr",    siteName: "Le 131 Restaurant Lyon",    type: "website",    images: [
       {
-        url: "http://img.b2bpic.net/free-photo/students-studying-indoors-full-shot_23-2149647035.jpg",        alt: "Restaurant Universitaire ENS Lyon"
+        url: "http://img.b2bpic.net/free-photo/students-studying-indoors-full-shot_23-2149647035.jpg",        alt: "Le 131 - Restaurant Universitaire ENS Lyon"
       }
     ]
   },
   twitter: {
-    card: "summary_large_image",    title: "Restaurant Universitaire ENS Lyon",    description: "Repas frais et équilibrés pour étudiants et personnels ENS. 1-10€.",    images: ["http://img.b2bpic.net/free-photo/students-studying-indoors-full-shot_23-2149647035.jpg"]
+    card: "summary_large_image",    title: "Le 131 - Restaurant Universitaire ENS Lyon",    description: "Repas frais et équilibrés pour étudiants et personnels ENS. 1-10€.",    images: ["http://img.b2bpic.net/free-photo/students-studying-indoors-full-shot_23-2149647035.jpg"]
   },
   robots: {
     index: true,
